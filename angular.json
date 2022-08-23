@@ -2,6 +2,7 @@
   "$schema": "./node_modules/nx/schemas/workspace-schema.json",
   "version": 2,
   "projects": {
+    "ng-worst": "libs/ng-worst",
     "playground": "apps/playground",
     "playground-e2e": "apps/playground-e2e"
   }
