@@ -1,6 +1,11 @@
 {
   "name": "ng-worst",
-  "version": "1.0.0",
+  "version": "1.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/joshuamorony/ng-worst.git"
+  },
+  "license": "MIT",
   "peerDependencies": {
     "@angular/common": "^14.1.0",
     "@angular/core": "^14.1.0"
